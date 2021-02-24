@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947574869754",
+    "firebase_url": "https://webfinite-1585121404798.firebaseio.com",
+    "project_id": "webfinite-1585121404798",
+    "storage_bucket": "webfinite-1585121404798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947574869754:android:834af5d22fd00996110343",
+        "android_client_info": {
+          "package_name": "com.example.quotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947574869754-gqso58ufe0f0a08shme41e4sfrcriamf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1R17bgE6Vqchfg9vKY_FROgF0R1g7YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947574869754-gqso58ufe0f0a08shme41e4sfrcriamf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
